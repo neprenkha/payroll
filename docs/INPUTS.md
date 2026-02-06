@@ -1,0 +1,343 @@
+# Inputs
+
+User-editable inputs detected from data validation and non-formula value cells.
+
+## 04
+- **K3** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L3** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M3** — PS | Validation: `PayStructureList` | Value: `WD` | Frequency: monthly
+- **K4** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L4** — OT | Validation: `OTTypeList` | Value: `RD` | Frequency: monthly
+- **M4** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K5** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L5** — OT | Validation: `OTTypeList` | Value: `P` | Frequency: monthly
+- **M5** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K6** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L6** — OT | Validation: `OTTypeList` | Value: `PR` | Frequency: monthly
+- **M6** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K7** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L7** — OT | Validation: `OTTypeList` | Value: `S` | Frequency: monthly
+- **M7** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K8** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L8** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M8** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K9** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L9** — OT | Validation: `OTTypeList` | Value: `RD` | Frequency: monthly
+- **M9** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K10** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L10** — OT | Validation: `OTTypeList` | Value: `P` | Frequency: monthly
+- **M10** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K11** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L11** — OT | Validation: `OTTypeList` | Value: `PR` | Frequency: monthly
+- **M11** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K12** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L12** — OT | Validation: `OTTypeList` | Value: `S` | Frequency: monthly
+- **M12** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K13** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L13** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M13** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K14** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L14** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M14** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K15** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L15** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M15** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K16** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L16** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M16** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K17** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L17** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M17** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K18** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L18** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M18** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K19** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L19** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M19** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K20** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L20** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M20** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K21** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L21** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M21** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K22** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L22** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M22** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K23** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L23** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M23** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K24** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L24** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M24** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K25** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L25** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M25** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K26** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L26** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M26** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K27** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L27** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M27** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K28** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L28** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M28** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K29** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L29** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M29** — PS | Validation: `PayStructureList` | Value: `WD` | Frequency: monthly
+- **K30** — ATT | Validation: `AttendanceList` | Value: `SL` | Frequency: monthly
+- **L30** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M30** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K31** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L31** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M31** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K32** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L32** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M32** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K33** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L33** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M33** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+## 05
+- **K3** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L3** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M3** — PS | Validation: `PayStructureList` | Value: `WD` | Frequency: monthly
+- **K4** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L4** — OT | Validation: `OTTypeList` | Value: `RD` | Frequency: monthly
+- **M4** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K5** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L5** — OT | Validation: `OTTypeList` | Value: `P` | Frequency: monthly
+- **M5** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K6** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L6** — OT | Validation: `OTTypeList` | Value: `PR` | Frequency: monthly
+- **M6** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K7** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L7** — OT | Validation: `OTTypeList` | Value: `S` | Frequency: monthly
+- **M7** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K8** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L8** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M8** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K9** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L9** — OT | Validation: `OTTypeList` | Value: `RD` | Frequency: monthly
+- **M9** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K10** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L10** — OT | Validation: `OTTypeList` | Value: `P` | Frequency: monthly
+- **M10** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K11** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L11** — OT | Validation: `OTTypeList` | Value: `PR` | Frequency: monthly
+- **M11** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K12** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L12** — OT | Validation: `OTTypeList` | Value: `S` | Frequency: monthly
+- **M12** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K13** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L13** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M13** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K14** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L14** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M14** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K15** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L15** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M15** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K16** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L16** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M16** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K17** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L17** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M17** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K18** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L18** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M18** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K19** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L19** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M19** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K20** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L20** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M20** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K21** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L21** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M21** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K22** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L22** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M22** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K23** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L23** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M23** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K24** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L24** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M24** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K25** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L25** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M25** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K26** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L26** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M26** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K27** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L27** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M27** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K28** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L28** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M28** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K29** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L29** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M29** — PS | Validation: `PayStructureList` | Value: `WD` | Frequency: monthly
+- **K30** — ATT | Validation: `AttendanceList` | Value: `SL` | Frequency: monthly
+- **L30** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M30** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K31** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L31** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M31** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K32** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L32** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M32** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+- **K33** — ATT | Validation: `AttendanceList` | Value: `PR` | Frequency: monthly
+- **L33** — OT | Validation: `OTTypeList` | Value: `N` | Frequency: monthly
+- **M33** — PS | Validation: `PayStructureList` | Value: `WDI` | Frequency: monthly
+## companysettings
+- **B3** — Registration No. | Validation: `None` | Value: `SA0019087-A` | Frequency: rarely change
+- **B4** — Address Line 1 | Validation: `None` | Value: `No. 14 & 16 Jalan Vista 1/9` | Frequency: rarely change
+- **B5** — Address Line 2 | Validation: `None` | Value: `Taman Desa Vista` | Frequency: rarely change
+- **J5** — Address Line 2 | Validation: `None` | Value: `Transfer` | Frequency: rarely change
+- **B6** — Postcode | Validation: `None` | Value: `Sepang` | Frequency: rarely change
+- **J6** — Postcode | Validation: `None` | Value: `PAYSLIP-{YYYY}{MM}-{EmpID}` | Frequency: rarely change
+- **B7** — City | Validation: `None` | Value: `43900` | Frequency: rarely change
+- **B8** — State | Validation: `None` | Value: `Selangor` | Frequency: rarely change
+- **F8** — State | Validation: `None` | Value: `MYR` | Frequency: rarely change
+- **B9** — Country | Validation: `None` | Value: `Malaysia` | Frequency: rarely change
+- **F9** — Country | Validation: `None` | Value: `2` | Frequency: rarely change
+- **B10** — Phone | Validation: `None` | Value: `60387051441` | Frequency: rarely change
+- **F10** — Phone | Validation: `None` | Value: `PublicHoliday` | Frequency: rarely change
+- **B11** — WhatsApp | Validation: `None` | Value: `60138113300` | Frequency: rarely change
+- **B12** — Fax | Validation: `None` | Value: `60327702809` | Frequency: rarely change
+- **B13** — Email | Validation: `None` | Value: `admin@acaciadreams.com` | Frequency: rarely change
+- **B14** — Website | Validation: `None` | Value: `www.acaciadreams.com` | Frequency: rarely change
+- **B15** — Tiktok | Validation: `None` | Value: `@acaciadreams.my` | Frequency: rarely change
+- **B16** — Facebook | Validation: `None` | Value: `@acaciadreamsmy` | Frequency: rarely change
+- **B17** — Instagram | Validation: `None` | Value: `@acaciadreams.my` | Frequency: rarely change
+- **B18** — Youtube | Validation: `None` | Value: `@acaciadreams.my` | Frequency: rarely change
+- **B19** — Twitter | Validation: `None` | Value: `@acaciadreamsmy` | Frequency: rarely change
+- **B31** — Code | Validation: `None` | Value: `Allowance Name` | Frequency: rarely change
+- **F31** — Code | Validation: `None` | Value: `FullCut Limit` | Frequency: rarely change
+- **J31** — Code | Validation: `None` | Value: `Include in EIS` | Frequency: rarely change
+- **B32** — 01 | Validation: `None` | Value: `Attendance Allowance` | Frequency: rarely change
+- **J32** — 01 | Validation: `None` | Value: `No` | Frequency: rarely change
+- **B33** — 02 | Validation: `None` | Value: `Fuel Allow.` | Frequency: rarely change
+- **J33** — 02 | Validation: `None` | Value: `Yes` | Frequency: rarely change
+- **B34** — 03 | Validation: `None` | Value: `Fixed Allow.` | Frequency: rarely change
+- **J34** — 03 | Validation: `None` | Value: `Yes` | Frequency: rarely change
+## holidays
+- **A2** — Date | Validation: `None` | Value: `44561` | Frequency: once per year
+- **B2** — Day | Validation: `None` | Value: `Khamis` | Frequency: once per year
+- **C2** — Holiday | Validation: `None` | Value: `Tahun Baru` | Frequency: once per year
+- **D2** — Priority list | Validation: `None` | Value: `Hari Pekerja` | Frequency: once per year
+- **F2** — Days | Validation: `None` | Value: `1` | Frequency: once per year
+- **A3** — Date | Validation: `None` | Value: `44592` | Frequency: once per year
+- **B3** — Day | Validation: `None` | Value: `Ahad` | Frequency: once per year
+- **C3** — Holiday | Validation: `None` | Value: `Hari Thaipusam` | Frequency: once per year
+- **D3** — Priority list | Validation: `None` | Value: `Hari Keputeraan YDP Agong` | Frequency: once per year
+- **E3** — 11 Options | Validation: `None` | Value: `44712` | Frequency: once per year
+- **A4** — Date | Validation: `None` | Value: `44593` | Frequency: once per year
+- **B4** — Day | Validation: `None` | Value: `Isnin` | Frequency: once per year
+- **C4** — Holiday | Validation: `None` | Value: `Cuti Hari Thaipusam` | Frequency: once per year
+- **D4** — Priority list | Validation: `None` | Value: `Hari Kebangsaan` | Frequency: once per year
+- **E4** — 11 Options | Validation: `None` | Value: `44803` | Frequency: once per year
+- **A5** — Date | Validation: `None` | Value: `44608` | Frequency: once per year
+- **B5** — Day | Validation: `None` | Value: `Selasa` | Frequency: once per year
+- **C5** — Holiday | Validation: `None` | Value: `Tahun Baru Cina` | Frequency: once per year
+- **D5** — Priority list | Validation: `None` | Value: `Hari Malaysia` | Frequency: once per year
+- **E5** — 11 Options | Validation: `None` | Value: `44819` | Frequency: once per year
+- **F5** — Days | Validation: `None` | Value: `4` | Frequency: once per year
+- **A6** — Date | Validation: `None` | Value: `44609` | Frequency: once per year
+- **B6** — Day | Validation: `None` | Value: `Rabu` | Frequency: once per year
+- **C6** — Holiday | Validation: `None` | Value: `Tahun Baru Cina Hari Kedua` | Frequency: once per year
+- **D6** — Priority list | Validation: `None` | Value: `Hari Keputeraan Sultan Selangor` | Frequency: once per year
+- **E6** — 11 Options | Validation: `None` | Value: `44905` | Frequency: once per year
+- **F6** — Days | Validation: `None` | Value: `5` | Frequency: once per year
+- **A7** — Date | Validation: `None` | Value: `44626` | Frequency: once per year
+- **B7** — Day | Validation: `None` | Value: `Sabtu` | Frequency: once per year
+- **C7** — Holiday | Validation: `None` | Value: `Hari Nuzul Al-Quran` | Frequency: once per year
+- **D7** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `Hari Raya Aidilfitri` | Frequency: once per year
+- **D7** — Priority list | Validation: `None` | Value: `Hari Raya Aidilfitri` | Frequency: once per year
+- **E7** — 11 Options | Validation: `None` | Value: `44640` | Frequency: once per year
+- **F7** — Days | Validation: `None` | Value: `6` | Frequency: once per year
+- **A8** — Date | Validation: `None` | Value: `44640` | Frequency: once per year
+- **B8** — Day | Validation: `None` | Value: `Sabtu` | Frequency: once per year
+- **C8** — Holiday | Validation: `None` | Value: `Hari Raya Aidilfitri` | Frequency: once per year
+- **D8** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `Hari Raya Haji` | Frequency: once per year
+- **D8** — Priority list | Validation: `None` | Value: `Hari Raya Haji` | Frequency: once per year
+- **E8** — 11 Options | Validation: `None` | Value: `44641` | Frequency: once per year
+- **F8** — Days | Validation: `None` | Value: `7` | Frequency: once per year
+- **A9** — Date | Validation: `None` | Value: `44641` | Frequency: once per year
+- **B9** — Day | Validation: `None` | Value: `Ahad` | Frequency: once per year
+- **C9** — Holiday | Validation: `None` | Value: `Hari Raya Aidilfitri` | Frequency: once per year
+- **D9** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `Awal Muharram` | Frequency: once per year
+- **D9** — Priority list | Validation: `None` | Value: `Awal Muharram` | Frequency: once per year
+- **E9** — 11 Options | Validation: `None` | Value: `44642` | Frequency: once per year
+- **F9** — Days | Validation: `None` | Value: `8` | Frequency: once per year
+- **A10** — Date | Validation: `None` | Value: `44642` | Frequency: once per year
+- **B10** — Day | Validation: `None` | Value: `Isnin` | Frequency: once per year
+- **C10** — Holiday | Validation: `None` | Value: `Hari Raya Aidilfitri` | Frequency: once per year
+- **D10** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `Maulidur Rasul` | Frequency: once per year
+- **D10** — Priority list | Validation: `None` | Value: `Maulidur Rasul` | Frequency: once per year
+- **E10** — 11 Options | Validation: `None` | Value: `44707` | Frequency: once per year
+- **F10** — Days | Validation: `None` | Value: `9` | Frequency: once per year
+- **A11** — Date | Validation: `None` | Value: `44681` | Frequency: once per year
+- **B11** — Day | Validation: `None` | Value: `Jumaat` | Frequency: once per year
+- **C11** — Holiday | Validation: `None` | Value: `Hari Pekerja` | Frequency: once per year
+- **D11** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `Hari Nuzul Al-Quran` | Frequency: once per year
+- **D11** — Priority list | Validation: `None` | Value: `Hari Nuzul Al-Quran` | Frequency: once per year
+- **E11** — 11 Options | Validation: `None` | Value: `44728` | Frequency: once per year
+- **F11** — Days | Validation: `None` | Value: `10` | Frequency: once per year
+- **A12** — Date | Validation: `None` | Value: `44707` | Frequency: once per year
+- **B12** — Day | Validation: `None` | Value: `Rabu` | Frequency: once per year
+- **C12** — Holiday | Validation: `None` | Value: `Hari Raya Haji` | Frequency: once per year
+- **E12** — 11 Options | Validation: `None` | Value: `44797` | Frequency: once per year
+- **F12** — Days | Validation: `None` | Value: `11` | Frequency: once per year
+- **A13** — Date | Validation: `None` | Value: `44711` | Frequency: once per year
+- **B13** — Day | Validation: `None` | Value: `Ahad` | Frequency: once per year
+- **C13** — Holiday | Validation: `None` | Value: `Hari Wesak` | Frequency: once per year
+- **D13** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A14** — Date | Validation: `None` | Value: `44712` | Frequency: once per year
+- **B14** — Day | Validation: `None` | Value: `Isnin` | Frequency: once per year
+- **C14** — Holiday | Validation: `None` | Value: `Hari Keputeraan YDP Agong` | Frequency: once per year
+- **D14** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A15** — Date | Validation: `None` | Value: `44712` | Frequency: once per year
+- **B15** — Day | Validation: `None` | Value: `Isnin` | Frequency: once per year
+- **C15** — Holiday | Validation: `None` | Value: `Cuti Hari Wesak` | Frequency: once per year
+- **D15** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A16** — Date | Validation: `None` | Value: `44728` | Frequency: once per year
+- **B16** — Day | Validation: `None` | Value: `Rabu` | Frequency: once per year
+- **C16** — Holiday | Validation: `None` | Value: `Awal Muharram` | Frequency: once per year
+- **D16** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A17** — Date | Validation: `None` | Value: `44797` | Frequency: once per year
+- **B17** — Day | Validation: `None` | Value: `Selasa` | Frequency: once per year
+- **C17** — Holiday | Validation: `None` | Value: `Maulidur Rasul` | Frequency: once per year
+- **D17** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A18** — Date | Validation: `None` | Value: `44803` | Frequency: once per year
+- **B18** — Day | Validation: `None` | Value: `Isnin` | Frequency: once per year
+- **C18** — Holiday | Validation: `None` | Value: `Hari Kebangsaan` | Frequency: once per year
+- **D18** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A19** — Date | Validation: `None` | Value: `44819` | Frequency: once per year
+- **B19** — Day | Validation: `None` | Value: `Rabu` | Frequency: once per year
+- **C19** — Holiday | Validation: `None` | Value: `Hari Malaysia` | Frequency: once per year
+- **D19** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A20** — Date | Validation: `None` | Value: `44872` | Frequency: once per year
+- **B20** — Day | Validation: `None` | Value: `Ahad` | Frequency: once per year
+- **C20** — Holiday | Validation: `None` | Value: `Hari Deepavali` | Frequency: once per year
+- **D20** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A21** — Date | Validation: `None` | Value: `44873` | Frequency: once per year
+- **B21** — Day | Validation: `None` | Value: `Isnin` | Frequency: once per year
+- **C21** — Holiday | Validation: `None` | Value: `Cuti Hari Deepavali` | Frequency: once per year
+- **D21** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A22** — Date | Validation: `None` | Value: `44905` | Frequency: once per year
+- **B22** — Day | Validation: `None` | Value: `Jumaat` | Frequency: once per year
+- **C22** — Holiday | Validation: `None` | Value: `Hari Keputeraan Sultan Selangor` | Frequency: once per year
+- **D22** — Priority list | Validation: `COUNTA($E$2:$E$200)<=11` | Value: `(blank)` | Frequency: once per year
+- **A23** — Date | Validation: `None` | Value: `44919` | Frequency: once per year
+- **B23** — Day | Validation: `None` | Value: `Jumaat` | Frequency: once per year
+- **C23** — Holiday | Validation: `None` | Value: `Hari Krismas` | Frequency: once per year
+- **D33** — Priority list | Validation: `None` | Value: `Where a holiday falls on weekly rest day, the following day will be substituted as the holiday.` | Frequency: once per year
+## staffsettings
+- **F2** — Staff ID | Validation: `None` | Value: `Below 60` | Frequency: rarely change
+- **B3** — Full Name | Validation: `None` | Value: `MOHD AZLIN NASUTION BIN ABDUL AZIZ` | Frequency: rarely change
+- **J3** — Full Name | Validation: `None` | Value: `8` | Frequency: rarely change
+- **B4** — IC/Passport | Validation: `None` | Value: `761210-14-5715` | Frequency: rarely change
+- **F5** — Date of Birth | Validation: `None` | Value: `SOCSO Cat 1` | Frequency: rarely change
+- **F6** — Join Date | Validation: `None` | Value: `Yes` | Frequency: rarely change

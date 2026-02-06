@@ -1,0 +1,74 @@
+# staffsettings
+
+- **Used range:** A1:AO30
+- **Dependencies:** companysettings
+- **Tables:** None detected
+
+## Key headers (first rows)
+- A1: Profile & Employment
+- B1: Value
+- C1: Note
+- D1: DD
+- E1: Statutory
+- F1: Value
+- G1: Note
+- H1: DD
+- I1: Attendance Status List
+- J1: Value
+- K1: Note
+- L1: DD
+- M1: Bank & Payslip
+- N1: Value
+- O1: Note
+- P1: DD
+- Q1: Pay Structure
+- R1: Value
+- S1: Note
+- T1: DD
+- U1: Working Hours Defaults
+- V1: Value
+- W1: Note
+- X1: DD
+- Y1: OT Rules & Scheme
+- Z1: Value
+- AA1: Note
+- AB1: DD
+- AC1: Work Pattern & Weekly Off
+- AD1: Value
+- AE1: Note
+- AF1: DD
+- AG1: Roster / Rotation
+- AH1: Value
+- AI1: Note
+- AJ1: DD
+- AK1: OT Defaults & Rates
+- AL1: Value
+- AM1: Note / User Friendly Name
+- AN1: DD
+- AO1: Note / User Friendly Name WDI
+- A2: Staff ID
+- E2: EPF Age Group
+- F2: Below 60
+- G2: Below 60 / Age 60+
+- I2: Public Holiday Allowance (days)
+- K2: Override per staff (blank = company)
+- M2: Bank Name
+- N2: MBB
+- Q2: Pay Type
+- R2: Monthly
+- S2: Monthly / Daily / Hourly
+- U2: Work Hours Per Day
+- V2: 0.33333333333333331
+- W2: Time per day (h:mm) or decimal hours
+- Y2: Default Pay Scheme
+- Z2: Standard
+- AA2: Standard / Premium / Special (company-defined)
+- AC2: Observe Public Holidays
+- AD2: Yes
+- AE2: Yes / No
+- AG2: Default Shift Code
+- AI2: Refer to shifts
+- AK2: Normal
+- AL2: 1.5
+- AM2: Default
+- AN2: N

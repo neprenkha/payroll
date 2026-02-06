@@ -1,0 +1,59 @@
+# companysettings
+
+- **Used range:** A1:BH44
+- **Dependencies:** None detected
+- **Tables:** None detected
+
+## Key headers (first rows)
+- A1: Company Profile
+- B1: Value
+- C1: Note
+- D1: DD
+- E1: Registration & Tax
+- F1: Value
+- G1: Note
+- H1: DD
+- I1: Banking & Payment
+- J1: Value
+- K1: Note
+- L1: DD
+- M1: Payroll Cycle
+- N1: Value
+- O1: Note
+- Q1: Work Rules
+- R1: Value
+- S1: Note
+- T1: DD
+- U1: Display & Branding
+- V1: Value
+- W1: Note
+- X1: DD
+- Y1: Statutory Defaults
+- Z1: Value
+- AA1: Note
+- AB1: DD
+- AC1: Signatory
+- AD1: Value
+- AE1: Note
+- AF1: DD
+- AG1: OT & Break Defaults
+- AH1: Value
+- AI1: Note
+- AJ1: DD
+- A2: Company Name
+- E2: EPF/KWSP Employer No.
+- I2: Bank Name
+- M2: Year
+- N2: 2025
+- Q2: Work Hours Per Day
+- R2: 0.39583333333333331
+- U2: Slip Title
+- V2: PAYSLIP
+- Y2: Default SOCSO Category
+- Z2: SOCSO Cat 1
+- AC2: Signatory Name
+- AG2: OT Break Duration
+- AH2: 4.1666666666666666E-3
+- AI2: Unpaid OT break per cycle (hh:mm). Deduct 6 minutes for each full 1 hour of OT. Staff override allowed in staffsettings.
+- BA2: LOGO
+- BH2: LOGO
