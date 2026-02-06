@@ -1,0 +1,48 @@
+# rosterpatterns
+
+- **Used range:** A1:AG3
+- **Dependencies:** None detected
+- **Tables:** None detected
+
+## Key headers (first rows)
+- A1: PatternID
+- B1: LengthDays
+- C1: Day1
+- D1: Day2
+- E1: Day3
+- F1: Day4
+- G1: Day5
+- H1: Day6
+- I1: Day7
+- J1: Day8
+- K1: Day9
+- L1: Day10
+- M1: Day11
+- N1: Day12
+- O1: Day13
+- P1: Day14
+- Q1: Day15
+- R1: Day16
+- S1: Day17
+- T1: Day18
+- U1: Day19
+- V1: Day20
+- W1: Day21
+- X1: Day22
+- Y1: Day23
+- Z1: Day24
+- AA1: Day25
+- AB1: Day26
+- AC1: Day27
+- AD1: Day28
+- AE1: Day29
+- AF1: Day30
+- AG1: Day31
+- A2: R42
+- B2: 6
+- C2: D12
+- D2: D12
+- E2: D12
+- F2: D12
+- G2: OFF
+- H2: OFF
